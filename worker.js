@@ -1,4 +1,5 @@
 // Closet AI helper (free version): runs on Cloudflare Workers AI. No API key needed.
+
 const ALLOWED_ORIGIN = "https://morganbusacca.github.io";
 const MODEL = "@cf/meta/llama-3.2-11b-vision-instruct";
 const CATS = ["Tops", "Bottoms", "Dresses", "Outerwear", "Shoes", "Accessories"];
